@@ -1,0 +1,209 @@
+
+h1,
+p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.calculator{
+  position: relative;
+  left:50px;
+  top:20px;
+  
+}
+.container{
+  position:relative;
+  left:70px;
+  top:50px;
+  background-color:grey;
+  width:250px;
+  height:300px;
+}
+.input{
+  position: relative;
+  bottom:10px;
+  right:40px;
+  width:220px;
+  height:40px;
+}
+.row1{
+  position: relative;
+  
+  font-size: 30px;
+  
+  
+}
+.row2{
+  position: relative;
+  top:10px;
+  right:40px;
+  font-size: 30px;
+
+
+}
+h3{
+  position: relative;
+  left:90px;
+  top:30px;
+  text-transform: uppercase;
+}
+.row5{
+
+  position:relative;
+  top:30px;
+  right:40px
+
+}
+.four{
+  background-color:goldenrod;
+  color:black;
+  font-size: 12px;
+
+
+}
+.five{
+  position: relative;
+  left:35px;
+  background-color:goldenrod;
+  color:black;
+  font-size: 12px;
+}
+.six{
+  position: relative;
+  left:65px;
+  background-color:goldenrod;
+  color:black;
+  font-size: 12px;
+}
+.minuse{
+  position: relative;
+  left:85px;
+  bottom:0px;
+  background-color:goldenrod;
+  color:black;
+  font-size: 12px;
+
+}
+.plus{
+  position: relative;
+  top:0px;
+  left:80px;
+  background-color: goldenrod;
+  color:black;
+  font-size: 12px;
+}
+.row3{
+  position: relative;
+  right:40px;
+  top:20px;
+  font-size: 50px;
+}
+.row4{
+  position: relative;
+  top:20px;
+  right:40px;
+  font-size: 30px;
+}
+.one{
+
+  position: relative;
+  background-color: goldenrod;
+  color:black;
+  font-size: 12px;
+}
+.two{
+  position: relative;
+  left:40px;
+  background-color:goldenrod;
+  color:black;
+  font-size: 12px;
+}
+.three{
+  position: relative;
+  left:70px;
+  background-color:goldenrod;
+  color:black;
+  font-size: 12px;
+
+}
+
+
+.four{
+
+}
+.ac{
+  position: relative;
+right:40px;
+background-color: goldenrod;
+color:black;
+font-size: 12px;
+}
+.de{
+  position: relative;
+  right:20px;
+  font-size: 12px;
+  background-color:goldenrod;
+  color:black;
+}
+.dot{
+  position: relative;
+  left:10px;
+font-size: 12px;
+background-color:goldenrod;
+color:black;
+}
+.slash{
+  position: relative;
+  left:30px;
+  font-size: 12px;
+  background-color:goldenrod;
+  color:black;
+}
+.seven{
+position:relative;
+background-color:goldenrod;
+color:black;
+font-size: 12px;
+
+}
+.eight{
+position: relative;
+left:35px;
+background-color:goldenrod;
+color:black;
+font-size: 12px;
+}
+.nine{
+position: relative;
+left:65px;
+background-color:goldenrod;
+color:black;
+font-size: 12px;
+}
+.times{
+position: relative;
+background-color:goldenrod;
+color:black;
+font-size: 12px;
+left:85px
+
+}
+.zeros{
+  position: relative;
+  background-color:goldenrod;
+  color:black;
+  font-size: 12px;
+}
+.zero{
+  position: relative;
+  left:30px;
+  background-color:goldenrod;
+  color:black;
+  font-size: 12px;
+}
+.equal{
+  position: relative;
+  left:60px;
+  background-color:goldenrod;
+  font-size: 12px;
+  color:black;
+}
